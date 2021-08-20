@@ -1,8 +1,0 @@
-LL1.addNodeAtEnd(100)
-LL1.addNodeAtBeg(11)
-LL1.addNodeAtBeg(12)
-LL1.addNodeAfterNode(200, 10)
-LL1.addNodeBeforeNode(9, 10)
-LL1.addNodeBeforeNode(8, 9)
-LL1.addNodeIfEmpty(1)
-LL1.addNodeAfterNode(13, 11)
